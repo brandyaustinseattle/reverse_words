@@ -31,19 +31,6 @@ def reverse_words(my_words)
 end
 
 
-# # string reverse
-# def string_reverse(my_string)
-#
-#   (count / 2).times do |num|
-#     value = -count
-#
-#     letter = my_string[value]
-#     my_string[value] = my_string[num]
-#     my_string[num] = letter
-#
-#   end
-# end
-#
 # # reverse words
 # def reverse_words(my_words)
 #
